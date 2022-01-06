@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "439bbc26-8a2b-40db-94f5-7507f816eb69",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 524,
+  "height": 437,
+  "platformSettings": {},
+  "subMetas": {
+    "Chicken_farm_full": {
+      "ver": "1.0.4",
+      "uuid": "963747a0-257b-41b1-a642-c419981a18c6",
+      "rawTextureUuid": "439bbc26-8a2b-40db-94f5-7507f816eb69",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 524,
+      "height": 437,
+      "rawWidth": 524,
+      "rawHeight": 437,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

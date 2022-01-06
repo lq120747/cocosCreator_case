@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "442539b8-b945-4926-bc9c-28e931261a3c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "Duck_eating_03": {
+      "ver": "1.0.4",
+      "uuid": "92843c23-7fbd-4ac9-a0a0-55e755c4469e",
+      "rawTextureUuid": "442539b8-b945-4926-bc9c-28e931261a3c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 78,
+      "height": 71,
+      "rawWidth": 79,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

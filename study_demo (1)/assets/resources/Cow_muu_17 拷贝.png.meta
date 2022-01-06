@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "66c32292-401d-41f7-bd8f-de6cfb83a4e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 105,
+  "height": 103,
+  "platformSettings": {},
+  "subMetas": {
+    "Cow_muu_17 拷贝": {
+      "ver": "1.0.4",
+      "uuid": "d1ac846c-cb5c-46d4-8755-2c0d07bca9a6",
+      "rawTextureUuid": "66c32292-401d-41f7-bd8f-de6cfb83a4e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 103,
+      "rawWidth": 105,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0c730733-53ac-4222-ad26-d86dab218c15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 389,
+  "height": 213,
+  "platformSettings": {},
+  "subMetas": {
+    "我的农场": {
+      "ver": "1.0.4",
+      "uuid": "d62035bf-027d-48cd-a438-4acb9821ae8d",
+      "rawTextureUuid": "0c730733-53ac-4222-ad26-d86dab218c15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 389,
+      "height": 209,
+      "rawWidth": 389,
+      "rawHeight": 213,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
